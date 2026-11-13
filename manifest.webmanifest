@@ -1,9 +1,0 @@
-{
-  "name": "Focus — Study Timer & Studicon",
-  "short_name": "Focus",
-  "start_url": "./index.html",
-  "display": "standalone",
-  "background_color": "#10131b",
-  "theme_color": "#10131b",
-  "description": "A minimal study timer and Studicon status picker."
-}
